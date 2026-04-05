@@ -13,6 +13,16 @@ The goal of this project is to analyze metro travel data to understand passenger
 
 ---
 
+## 📌 How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+2. Run Python script:
+   python src/data_cleaning.py
+3. Execute SQL queries in MySQL Workbench
+   
+---
+
 ## 📂 Dataset Information
 - Source: Delhi Metro travel dataset (JSON format)
 - Records: 10,000 trips
