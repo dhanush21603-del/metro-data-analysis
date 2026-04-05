@@ -155,11 +155,9 @@ Strategic Insights
 - Data-driven decision-making can support better route planning and infrastructure expansion.
 
 ---
-
- 
-
 ## 📂 Project Structure
 
+```
 metro-project/
 │
 ├── source_data/
@@ -176,9 +174,7 @@ metro-project/
 │   └── data_cleaning.py
 │
 └── README.md
-
-
----
+```
 
 ## ✅ Conclusion
 This project demonstrates how Python and SQL can be used together to analyze real-world transportation data and generate meaningful insights.
